@@ -1,4 +1,9 @@
-# espanso-package-example
-An example on how to create an espanso package.
+# espanso-vim-digraphs 
+A package implementing most of the digraphs from vim-digraphs.
 
-For more information, read the [documentation](https://espanso.org/docs/)
+## what did i leave out?
+
+- The control characters from ASCII like Line Feed and Bell
+- The control characters from Unicode like Padding Character and High Octet Preset
+
+For the list of digraphs, read the [documentation of vim-digraph](https://vimhelp.org/digraph.txt.html)
